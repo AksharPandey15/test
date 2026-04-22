@@ -1,0 +1,6 @@
+{
+  "name": "StandBy for Web",
+  "description": "A beautiful, glanceable standby display for older iPads and tablets featuring a clock, calendar, and minimalist widgets.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
